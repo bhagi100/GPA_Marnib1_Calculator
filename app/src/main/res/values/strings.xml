@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPA_Marnib1_Calculator</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="grades">GRADES</string>
+    <string name="mobile_computing">Mobile Computing</string>
+    <string name="web_development">Web Development</string>
+    <string name="big_data_analysis">Big Data Analysis</string>
+    <string name="software_engineering">Data Science</string>
+    <string name="java_programming">Java Programming</string>
+    <string name="result">RESULT</string>
+    <string name="gpa">GPA</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="enter_grade">Enter grade</string>
+    <string name="finalresult" />
+</resources>
